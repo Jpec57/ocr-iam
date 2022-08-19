@@ -15,3 +15,12 @@ Dataset: https://fki.tic.heia-fr.ch/databases/download-the-iam-handwriting-datab
 
 
 - [Analyse des données du projet](./documentation/project_analysis.md)
+
+
+## Dépendances
+
+La liste des dépendances est disponible dans le fichier `requirements.txt`.
+Elle a été générée par la commande suivante:
+```
+conda list --export > requirements.txt
+```
